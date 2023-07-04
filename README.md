@@ -1,2 +1,2 @@
-# qlalchemy-challenge-10
-qlalchemy-challenge 10
+# SQLalchemy-challenge-10
+SQLalchemy-challenge-10
